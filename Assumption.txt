@@ -8,5 +8,5 @@ MY ASSUMPTIONS:
 	NonTerminal - Productions
 
 
-Note: My program will work for calculating FIRST,FOLlOW,Parsing table.Its not working for parsing an input(SEGMENTATION FAULT)
+Note: My program will work for calculating FIRST,FOLlOW,Parsing table.
 	Ignore the warnings and run the program
