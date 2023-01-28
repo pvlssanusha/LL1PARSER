@@ -1,0 +1,12 @@
+MY ASSUMPTIONS:
+1)Considered epsilon symbol as "@"
+2)Give the productions in such a way that the productions that derives  terminal must be at bottom
+	ex)S-AB
+	   B-b
+	   A-a
+3)Give production as input to the file in the format given below:
+	NonTerminal - Productions
+
+
+Note: My program will work for calculating FIRST,FOLlOW,Parsing table.Its not working for parsing an input(SEGMENTATION FAULT)
+	Ignore the warnings and run the program
